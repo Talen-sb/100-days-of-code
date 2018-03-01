@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: March 1, 2018
+### Day 1: March 1, 2018
 
 **Today's Progress**: Starting off the #100DaysOfCode challenge. Learning how to use GitHub, signing up to https://www.freecodecamp.org doing some HTML stuff.
 
