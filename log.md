@@ -22,6 +22,8 @@
 
 **Thoughts:** I had no access to a computer today nor internet connection, but that didn't stop me 'cause I used an iPad and my phone's navigation data instead. Definitely gonna commit to this no matter what. Looking forward to keep learning!
 
+**Link to the tweet:** https://twitter.com/Gsus_asb/status/970160955056361472
+
 ### Day 4: March 4, 2018 
 
 **Today's Progress:** Didn't do much today, just an hour or so @freeCodeCamp; learning about the padding & margin properties, how to specify them by declaring each side individually or using the Clockwise notation. Also how overriding styles in subsequent CSS works. 
