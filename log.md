@@ -21,3 +21,11 @@
 **Today's Progress:** Getting to know how to use "form" stuff: buttons, text input, checkboxes, radio buttons, make them already checkable & how they work in general; also learning about the div element & id attribute and applying CSS to them.
 
 **Thoughts:** I had no access to a computer today nor internet connection, but that didn't stop me 'cause I used an iPad and my phone's navigation data instead. Definitely gonna commit to this no matter what. Looking forward to keep learning!
+
+### Day 4: March 4, 2018 
+
+**Today's Progress:** Didn't do much today, just an hour or so @freeCodeCamp; learning about the padding & margin properties, how to specify them by declaring each side individually or using the Clockwise notation. Also how overriding styles in subsequent CSS works. 
+
+**Thoughts:** This part was interesting, I like the way that freeCodeCamp explains the priority part of CSS. Excited to keep learning again! I'll continue tomorrow since it's a bit late by now and I'm not exactly at home. 
+
+**Link to the tweet:** https://twitter.com/Gsus_asb/status/970500810546270208
