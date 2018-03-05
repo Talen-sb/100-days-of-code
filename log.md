@@ -31,3 +31,11 @@
 **Thoughts:** This part was interesting, I like the way that freeCodeCamp explains the priority part of CSS. Excited to keep learning again! I'll continue tomorrow since it's a bit late by now and I'm not exactly at home. 
 
 **Link to the tweet:** https://twitter.com/Gsus_asb/status/970500810546270208
+
+### Day 5: March 5, 2018
+
+**Today's Progress:** Continuing to see how overwriting CSS works, as wells as getting to know a bit about applying colors to elements through Hex codes both long & shortened version, and RGB values. So, I'm done with the basic HTML & CSS part; next is Bootstrap!
+
+**Thoughts:** Feels good to have completed the basics of HTML & CSS, and I still have a long path to go through, but I'm really looking forward to it! Bootstrap, JavaScript, jQuery... I'm coming for you both!
+
+**Link to the tweet:** https://twitter.com/Gsus_asb/status/970754534367793153
