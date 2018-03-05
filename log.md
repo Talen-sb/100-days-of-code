@@ -13,3 +13,11 @@
 **Today's Progress:** Learning more about HTML & CSS and how they work together @freecodecamp, specifically about classes, working with images & the font-x attributes using CSS, anchor elements, border attributes, lists and so on. Also trying to link GitHub account to Atom, but for some reason when opening the GitHub tab on it, it doesn't show anything, so it's probably a bug, I guess; if it continues to go like this, I'll open an issue thread since I can't find anything online that would let me fix it.
  
 **Thoughts:** Pretty fun so far; it's basically like you are telling the browser in a kind of straight way "do this", "make this smaller", "I want this text to look like this"; and I'm enjoying it so far. It's quite interesting.
+
+**Link to the tweet:** https://twitter.com/Gsus_asb/status/969750395013750784
+
+### Day 3: March 3, 2018
+
+**Today's Progress:** Getting to know how to use "form" stuff: buttons, text input, checkboxes, radio buttons, make them already checkable & how they work in general; also learning about the div element & id attribute and applying CSS to them.
+
+**Thoughts:** I had no access to a computer today nor internet connection, but that didn't stop me 'cause I used an iPad and my phone's navigation data instead. Definitely gonna commit to this no matter what. Looking forward to keep learning!
