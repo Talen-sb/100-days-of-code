@@ -39,3 +39,21 @@
 **Thoughts:** Feels good to have completed the basics of HTML & CSS, and I still have a long path to go through, but I'm really looking forward to it! Bootstrap, JavaScript, jQuery... I'm coming for you both!
 
 **Link to the tweet:** https://twitter.com/Gsus_asb/status/970754534367793153
+
+### Day 6: March 6, 2018
+
+**Today's Progress:** Learning Bootstrap, pretty simple so far! Making buttons, using bootstrap classes and stuff. Also, picked up the "The Web Developer Bootcamp" by Colt Steele from udemy.
+
+**Thoughts:** Bootstrap seems quite simple; it helps you make stuff more quickly and efficiently, but that's just a thing from all frameworks, I'm guessing; looking forward to keep learning more about it!.
+Colt Steele's udemy course looks professional and useful; If I'm going to continue using this yet I don't know, but what I do know is that it's the most likely situation.
+
+**Link to the tweet:** https://twitter.com/Gsus_asb/status/971257658333454336
+
+### Day 7: March 7, 2018
+
+**Today's Progress:** Learnt a bit more about Bootstrap (cent & made a simple site for roasting purposes towards a friend of mine (Lorenzo Furio; may or may not include italian memes) in order to practice what I've learnt so far @freeCodeCamp; also, @StackOverflow helps A LOT for learning.
+
+**Thoughts:** Spent the morning making a simple website to roast Lorenzo and I feel so damn proud about it, lmao. I'm guessing that counts as a small project, idk. The point is, I did all of that by applying what I've learnt at freeCodeCamp; If I didn't remember something specific, I'd go back and check that part again; If I had an idea or didn't know how to apply it, Stack Overflow was my boy since there was already someone with the same beginnner's doubt that I had, and I feel like it's gonna keep going that way for a bit. Looking forwad to completing this challenge. ¡Let's go!
+
+### Day 8: March 8, 2018
+To post l8er.
