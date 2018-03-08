@@ -55,5 +55,7 @@ Colt Steele's udemy course looks professional and useful; If I'm going to contin
 
 **Thoughts:** Spent the morning making a simple website to roast Lorenzo and I feel so damn proud about it, lmao. I'm guessing that counts as a small project, idk. The point is, I did all of that by applying what I've learnt at freeCodeCamp; If I didn't remember something specific, I'd go back and check that part again; If I had an idea or didn't know how to apply it, Stack Overflow was my boy since there was already someone with the same beginnner's doubt that I had, and I feel like it's gonna keep going that way for a bit. Looking forwad to completing this challenge. ¡Let's go!
 
+**Link to the tweet:** https://twitter.com/Gsus_asb/status/971598834987163655
+
 ### Day 8: March 8, 2018
 To post l8er.
