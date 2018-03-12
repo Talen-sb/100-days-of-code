@@ -58,4 +58,33 @@ Colt Steele's udemy course looks professional and useful; If I'm going to contin
 **Link to the tweet:** https://twitter.com/Gsus_asb/status/971598834987163655
 
 ### Day 8: March 8, 2018
-To post l8er.
+
+**Today's Progress:** Read a bunch of stuff on @medium about Web Development and designing, covering specific topics like using Google fonts, UI, bootstrap, shadowing and such. Also signed up @dribbble and continued to follow the Front-End Developer path @freeCodeCamp.
+
+**Thoughts:**  Read quite a lot on medium and watched a lot of youtube videos; not much to say, but that everything was pretty interesting.
+
+**Link to the tweet:** https://twitter.com/Gsus_asb/status/971984831063064577
+
+### Day 9: March 9, 2018
+
+**Today's Progress:** Had no access to a computer nor Internet connection, so I used "Lrn" on my phone to review the fundamentals of HTML & CSS plus learning a thing or two.
+
+**Thoughts:** Didn't do much; I spent the entire day busy away from my PC 'cause university stuff, plus helping a friend of mine with a Spanish-English translation, but I did use Lrn to review my fundamentals and learn a thing or two; pretty useful app if you want to refresh or learn a thing or two, on the go.
+
+**Link to the tweet:** https://twitter.com/Gsus_asb/status/972724830368911360
+
+### Day 10: March 10, 2018
+
+**Today's Progress:** Learning jQuery & its uses to modify elements on HTML & CSS, still using phone nav. data
+
+**Thoughts:** I still find weird that I'm learning jQuery first rather than vanilla JavaScript at FreeCodeCamp, but so far it hasn't been much, since it was just targetting & modifying stuff, really; so I'm guessing it's cool, I'm just looking at the basics of jQuery, later to go full-deep into JavaScript. ¡Let's Go!
+
+**Link to the tweet:** https://twitter.com/Gsus_asb/status/972724830368911360
+
+### Day 11: March 11, 2018
+
+**Today's Progress:** Done with the jQuery section @freeCodeCamp; learnt about targeting, adding, removing, modifying, and cloning elements and so on, as well as applying CSS to them, & such. Next is the Basic Front End Development Projects; excited for it!
+
+**Thoughts:** Fun and simple; nothing too complicated. Projects are next. ¡Let's Go!
+
+**Link to the tweet:** https://twitter.com/Gsus_asb/status/973065476078260225
